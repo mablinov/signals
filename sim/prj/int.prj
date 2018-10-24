@@ -1,0 +1,2 @@
+vhdl xil_defaultlib ../../debouncer.vhd
+vhdl xil_defaultlib ../../strobe_if_changed.vhd
